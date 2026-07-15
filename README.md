@@ -68,4 +68,4 @@ http://localhost:8000
 
 ## Credits
 
-Made by SIJAN — 2026
+Made by SIJAN UPRETI
