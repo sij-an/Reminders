@@ -68,4 +68,4 @@ http://localhost:8000
 
 ## Credits
 
-Made by SIJAN UPRETI
+Made by SIJAN UPRETI. HAHA
